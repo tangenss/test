@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<menu>
+    <item>
+        <name>Grecha</name>
+        <cost currency="roubles">100</cost>
+        <weight>150</weight>
+    </item>
+    <item>
+        <name>Pureshka</name>
+        <cost currency="roubles">100</cost>
+        <weight>170</weight>
+    </item>
+    <item>
+        <name>Kotletka</name>
+        <cost currency="roubles">100</cost>
+        <weight>200</weight>
+    </item>
+    <item>
+        <name>Kompot</name>
+        <cost currency="roubles">100</cost>
+        <weight>350</weight>
+    </item>
+</menu>
